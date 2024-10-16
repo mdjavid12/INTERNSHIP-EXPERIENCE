@@ -1,3 +1,4 @@
 # TASK-MANAGER-APP
 
-[DIAGRAM]https://github.com/mdjavid12/TASK-MANAGER-APP/tree/55483302cd94a20843ab446ef34f0e7011146bb7/DIAGRAMS
+[DIAGRAM](https://github.com/mdjavid12/TASK-MANAGER-APP/tree/55483302cd94a20843ab446ef34f0e7011146bb7/DIAGRAMS)
+[DESIGN] (https://github.com/mdjavid12/TASK-MANAGER-APP/blob/d02f8c28940b4c9cd1b14544ff90f9bd3fedb6bd/DESIGN.md)
