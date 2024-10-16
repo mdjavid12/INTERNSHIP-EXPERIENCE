@@ -12,6 +12,8 @@ BEHAVIOURAL DIAGRAM
 
 
 
+
+
 STRUCTURAL DIAGRAM
 
 
@@ -23,7 +25,10 @@ STRUCTURAL DIAGRAM
 
 
 
+
 OTHER MODELLING DIAGRAMS
+
+
 
 
 1.[Entity Relationship Diagram.pdf](https://github.com/user-attachments/files/17389438/Entity.Relationship.Diagram.pdf)
